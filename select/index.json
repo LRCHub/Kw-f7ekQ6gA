@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君色、僕色",
+  "base_artist": "鈴木このみ、伊東歌詞太郎",
+  "createdAt": "2026-01-03T17:45:31.136779Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君色、僕色",
+      "artist": "鈴木このみ、伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_君色、僕色_鈴木このみ、伊東歌詞太郎.txt"
+    }
+  ]
+}
